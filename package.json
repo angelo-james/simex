@@ -1,0 +1,22 @@
+{
+  "name": "simex",
+  "version": "1.0.0",
+  "description": "Simex International",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelo-james/simex-foods.git"
+  },
+  "author": "AJ Arriola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelo-james/simex-foods/issues"
+  },
+  "homepage": "https://github.com/angelo-james/simex-foods#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
